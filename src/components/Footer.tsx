@@ -4,6 +4,6 @@ type Props = {}
 
 export default function Footer({}: Props) {
   return (
-    <footer>Copyright &copy; Brainster 2022</footer>
+    <footer>Copyright &copy; 2022</footer>
   )
 }
