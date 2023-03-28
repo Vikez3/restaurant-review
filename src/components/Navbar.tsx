@@ -7,7 +7,7 @@ type Props = {}
 export default function Navbar({ }: Props) {
   return (
     <nav className='container nav'>
-      <Link to={'/'} className='logo'>RESTOURANT</Link>
+      <Link to={'/'} className='logo'>RESTAURANTS</Link>
       <Link to={'/favourites'} className='favourites-link'><FaHeart /></Link>
     </nav>
   )
